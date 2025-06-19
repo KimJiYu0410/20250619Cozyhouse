@@ -1,0 +1,8 @@
+.default {
+    padding: 120px 0;
+}
+
+.inner {
+    max-width: 1170px;
+    margin: 0 auto;
+}
